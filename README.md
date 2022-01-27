@@ -65,6 +65,6 @@ function slowScroll(id) {
     return false; 
 }
 ```
-Go to our website and see the end result:
+Go to website and see the end result:
 
 ![2022-01-27 15-30-11 (2)](https://user-images.githubusercontent.com/97966535/151344544-33be32ae-39d4-4b65-a4ab-205c66444c46.gif)
